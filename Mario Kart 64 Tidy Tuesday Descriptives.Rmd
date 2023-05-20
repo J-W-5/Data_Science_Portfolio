@@ -1,0 +1,36 @@
+---
+title: "Mario Kart 64 Tidy Tuesday"
+author: "Joseph Walker"
+date: "2023-05-20"
+output: html_document
+---
+
+```{r}
+#load packages
+library(ggplot2)
+library(scales)
+
+
+```
+
+
+```{r show_col_types=FALSE, ech=TRUE, warning=FALSE, message=FALSE}
+#Read in data set
+records <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-05-25/records.csv')
+
+
+```
+
+
+```{r fig.width=10}
+#Bar graph of world records by track
+ggplot(data = records, aes(x = track, fill = track)) +
+  geom_bar(fill = rainbow(n=16)) +
+  ggtitle("Mario Kart 64 Records by Track") +
+  labs(x = "Track", y = "Record number") +
+  scale_x_discrete(labels = label_wrap(10)) + 
+  theme_classic()
+
+```
+
+
