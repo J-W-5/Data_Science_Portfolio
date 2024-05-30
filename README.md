@@ -1,5 +1,5 @@
 # Tidy-Tuesday
-![Diwali](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/09f889a9-2e71-4b48-bf7a-f8cd4ed766cb)
+![Diwali Customer Demographics](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/19ce5af0-fa0d-4121-b2a2-ab5cd14032e5)
 
 ![Flights_1](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/070177fe-eab8-4f73-abb8-dfcfaf043115)
 
