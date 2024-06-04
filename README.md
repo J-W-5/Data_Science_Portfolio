@@ -5,8 +5,6 @@
 
 ![Mario Kart 64 Records by Track](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/60c16618-3ad8-4d95-90a7-15b0c120e559)
 
-![Horror_Film_Regression](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/12133138-c7e5-436d-87e7-ea3f66dfb3a4)
-
 
 Wordcloud of horror movie taglines
 ![Horror Movie Taglines Wordcloud](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/0caab970-4a3f-4718-8893-f27091e6d530)
