@@ -8,5 +8,3 @@
 
 Wordcloud of horror movie taglines
 ![Horror Movie Taglines Wordcloud](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/0caab970-4a3f-4718-8893-f27091e6d530)
-
-![NFCW_Attend](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/9e1076e0-fe59-4289-9d2d-c325f6a16052)
