@@ -1,3 +1,5 @@
+![Cancer Mortality and Poverty](https://github.com/user-attachments/assets/dead4bb8-1a87-4a19-b5da-f6ee35320339)
+
 ![Diwali Customer Demographics](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/ce9e2aa6-9885-4ce1-9261-c8c0cc2abefe)
 
 ![Flights_1](https://github.com/J-W-5/Tidy-Tuesday/assets/129812797/070177fe-eab8-4f73-abb8-dfcfaf043115)
